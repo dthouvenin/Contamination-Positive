@@ -1597,9 +1597,14 @@
 			.wrapper.style3 .image {
 				border: solid 10px #fff;
 			}
-
+/* *************************************** Bandeaux Images *************************************** */
 	#header-wrapper {
 		background: url("../../images/banner2.jpg") center center;
+		background-size: cover;
+	}
+
+	#appel #header-wrapper {
+		background: url("../../images/soutien.jpg") center center;
 		background-size: cover;
 	}
 
