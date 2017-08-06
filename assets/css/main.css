@@ -1607,6 +1607,7 @@
 
 	body#appel #header-wrapper {
 		background: url("../../images/soutien.jpg") center center;
+		background-size: cover;
 	}
 
 		#header-wrapper:before {
