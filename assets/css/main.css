@@ -1604,12 +1604,12 @@
 		background: url("../../images/banner3.jpg") center center;
 		background-size: cover;
 	}
-
+/*
 	body#appel #header-wrapper {
 		background: url("../../images/pic04.jpg") center center;
 		background-size: cover;
 	}
-
+*/
 		#header-wrapper:before {
 			content: '';
 			position: absolute;
@@ -1976,7 +1976,7 @@
 
 			#header {
 				position: relative;
-				padding: 8em 0;
+				padding: 7em 0;
 			}
 
 			.homepage #header {
