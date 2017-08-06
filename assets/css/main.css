@@ -1597,13 +1597,15 @@
 			.wrapper.style3 .image {
 				border: solid 10px #fff;
 			}
-/* *************************************** Bandeaux Images *************************************** */
+			
+/* Bandeaux Images */
+
 	#header-wrapper {
 		background: url("../../images/banner3.jpg") center center;
 		background-size: cover;
 	}
 
-	body#appel>#header-wrapper {
+	body#appel #header-wrapper {
 		background: url("../../images/soutien.jpg") center center;
 	}
 
@@ -2024,6 +2026,7 @@
 					border-radius: 0.35em;
 					box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
 					padding: 0 1.5em 0 1.5em;
+					background-color: rgba(50,50,50,0.3);
 				}
 
 					#nav > ul > li {
