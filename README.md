@@ -7,7 +7,7 @@ Site web de l'association
 Credits:
 
     Site design by HTML 5 Up (https://html5up.net/escape-velocity)
-        licensed under Creative Commons http://creativecommons.org/licenses/by/3.0/
+        licensed under Creative Commons (http://creativecommons.org/licenses/by/3.0/)
 
 	Images:
 		Shutterstock
