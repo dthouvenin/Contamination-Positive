@@ -1770,10 +1770,21 @@
 				color: #fff;
 			}
 
+/* Ajouts Damien */
 		.h-centered {
 				text-align: center;
 				margin: 0 auto;
-			}			
+			}	
+			
+	.compact{
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	ol.actions-list{
+		margin-left: 2em;
+		list-style-type: decimal;
+	}
 
 /* Desktop + Tablet */
 
