@@ -1604,12 +1604,7 @@
 		background: url("../../images/banner3.jpg") center center;
 		background-size: cover;
 	}
-/*
-	body#appel #header-wrapper {
-		background: url("../../images/pic04.jpg") center center;
-		background-size: cover;
-	}
-*/
+
 		#header-wrapper:before {
 			content: '';
 			position: absolute;
@@ -1708,6 +1703,13 @@
 			background: #3d4249 url("images/overlay.png");
 		}
 
+	    #footer ul.icon-list {
+			margin-left: 4em;
+		}
+		#footer ul.icon-list li:before {
+			width: 1.5em;
+		}
+			
 /* Logo */
 
 	#logo h1 {
@@ -1767,6 +1769,11 @@
 			#copyright a:hover {
 				color: #fff;
 			}
+
+		.h-centered {
+				text-align: center;
+				margin: 0 auto;
+			}			
 
 /* Desktop + Tablet */
 
@@ -2675,7 +2682,7 @@
 			#footer hr {
 				display: none;
 			}
-
+			
 		/* Copyright */
 
 			#copyright {
