@@ -1197,7 +1197,25 @@
 		color: #484d55;
 	}
 
+	form .inline {
+		display: inline; 
+	}
+
+	form ul.checklist {
+		text-align: left;
+		padding-left: 1em;
+	}
+	form ul.checklist label {
+		margin-left: 0.5em;
+		font-weight: normal;
+	}
+
+	form h3 {
+		text-align: left;
+	}
+	
 	form input[type="text"],
+	form input[type="url"],
 	form input[type="email"],
 	form input[type="password"],
 	form select,
@@ -1217,6 +1235,7 @@
 	}
 
 		form input[type="text"]:focus,
+		form input[type="url"]:focus,
 		form input[type="email"]:focus,
 		form input[type="password"]:focus,
 		form select:focus,
@@ -1225,6 +1244,7 @@
 		}
 
 	form input[type="text"],
+	form input[type="url"],
 	form input[type="email"]
 	input[type="password"] {
 		line-height: 1em;
@@ -1241,6 +1261,12 @@
 	form .formerize-placeholder {
 		color: #555 !important;
 		font-style: italic;
+	}
+
+	form select[value=""] {
+		color: #555 !important;
+		font-style: italic;
+		line-height: 1.35em;
 	}
 
 	form ::-webkit-input-placeholder {
@@ -1640,6 +1666,7 @@
 		}
 
 			#footer-wrapper form input[type="text"]:focus,
+			#footer-wrapper form input[type="url"]:focus,
 			#footer-wrapper form input[type="email"]:focus,
 			#footer-wrapper form input[type="password"]:focus,
 			#footer-wrapper form select:focus,
