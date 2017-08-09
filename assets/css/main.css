@@ -1788,7 +1788,8 @@
 
 	nav li.current {
 		color: white;
-		text-decoration: underline;
+		font-weight: bold;
+		
 	}
 /* Desktop + Tablet */
 
