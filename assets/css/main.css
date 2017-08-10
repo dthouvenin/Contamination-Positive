@@ -1843,7 +1843,7 @@
 			}
 
 			header.style1 {
-				padding: 3em 0 3em 0;
+				padding: 2em 0 2em 0;
 			}
 
 				header.style1 h2 {
@@ -1854,7 +1854,7 @@
 
 				header.style1 p {
 					display: block;
-					margin: 1.15em 0 0 0;
+					margin: 0.15em 0 0 0;
 					font-size: 1.3em;
 					letter-spacing: 0.075em;
 					line-height: 1.5em;
@@ -1998,7 +1998,7 @@
 		/* Wrappers */
 
 			.wrapper {
-				padding: 6em 0 9em 0;
+				padding: 3em 0 9em 0;
 			}
 
 				.wrapper .title {
@@ -2280,7 +2280,7 @@
 		/* Wrappers */
 
 			.wrapper {
-				padding: 4em 0 7em 0;
+				padding: 2em 0 7em 0;
 			}
 
 			#intro-wrapper {
@@ -2294,7 +2294,7 @@
 		/* Header */
 
 			#header {
-				padding: 6em 0;
+				padding: 4em 0;
 			}
 
 			.homepage #header {
