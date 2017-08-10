@@ -1813,6 +1813,11 @@
 		list-style-type: decimal;
 	}
 
+	ul.actions-list{
+		margin-left: 2em;
+		list-style-type: circle;
+	}
+
 	nav li.current {
 		font-weight: bold;		
 	}
