@@ -1798,6 +1798,24 @@
 			}
 
 /* Ajouts Damien */
+
+.principal p {
+	margin-right: 2em;
+}
+.encart{
+	background-color: #e97770;
+	color: white;
+	margin-top: 1.5em;
+}
+
+.encart h4 {
+	color: white;
+}
+
+.encart a {
+	color: white;
+}
+
 		.h-centered {
 				text-align: center;
 				margin: 0 auto;
